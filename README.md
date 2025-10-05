@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**antonioomodho/antonioomodho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MSc Cyber Security (UK)** · **DevSecOps** · **Cloud Security**  
+I build secure-by-default pipelines and automate security checks across CI/CD.
 
-Here are some ideas to get you started:
+- 🔭 Current: Hardening a GitHub Actions pipeline (tests → SAST/DAST → SBOM).
+- ☁️ Cloud/IaC: Terraform + Ansible for reproducible, hardened stacks.
+- 🛡️ Interests: STRIDE, OWASP ASVS, supply chain security (SLSA), OSINT.
+- 🧪 Learning: Kubernetes security, policy-as-code (OPA/Conftest).
+- 📫 Reach me: <your.email@domain> • [LinkedIn](https://www.linkedin.com/in/antonioolale) • [X](https://twitter.com/antoniolombado)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Highlights
+- **Secure CI/CD Demo** – tests, lint, Semgrep + Trivy, SBOM, signed releases
+- **Cloud/IaC Lab** – Terraform VPC + Ansible CIS-style hardening
+- **Security Tools** – small OSINT & log-anomaly helpers
